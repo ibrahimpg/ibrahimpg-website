@@ -23,13 +23,16 @@
       <h3 style="color: rgba(245,245,245,0.9);">
         The Stack
       </h3>
-      <hr><div style="filter: grayscale(100%); text-align: center;">
-        <img src="../assets/Vue.png" alt="Vue Icon" style="width: 50px; height: 50px; margin: 25px;">
-        <img src="../assets/Node.png" alt="Node Icon" style="width: 50px; height: 50px; margin: 25px;">
-        <img src="../assets/Express.png" alt="Express Icon" style="width: 50px; height: 50px; margin: 25px;">
-        <br>
-        <img src="../assets/MongoDB.png" alt="MongoDB Icon" style="width: 50px; height: 50px; margin: 25px;">
-        <img src="../assets/Heroku.png" alt="Heroku Icon" style="width: 50px; height: 50px; margin: 25px;">
+      <hr><div style="filter: grayscale(100%); text-align: center; display: flex; flex-direction: column;">
+        <div style="display: flex; justify-content: center;">
+          <div style="margin: 25px;"><img src="../assets/Vue.png" alt="Vue Icon" style="width: 50px; height: 50px;"><p>Vue</p></div>
+          <div style="margin: 25px;"><img src="../assets/Node.png" alt="Node Icon" style="width: 50px; height: 50px;"><p>Node</p></div>
+          <div style="margin: 25px;"><img src="../assets/Express.png" alt="Express Icon" style="width: 50px; height: 50px;"><p>Express</p></div>
+        </div>
+        <div style="display: flex; justify-content: center;">
+          <div style="margin: 25px;"><img src="../assets/MongoDB.png" alt="MongoDB Icon" style="width: 50px; height: 50px;"><p>MongoDB</p></div>
+          <div style="margin: 25px;"><img src="../assets/Heroku.png" alt="Heroku Icon" style="width: 50px; height: 50px;"><p>Heroku</p></div>
+        </div>
       </div><hr>
       <br><br>
 
