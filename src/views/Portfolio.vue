@@ -5,7 +5,7 @@
       <div class="mobileSpace"></div>
 
       <p>
-        This is a sample of my work. Check out the rest of my stuff
+        This is a sample of my work. You can check out the rest of my stuff
         <a href="https://github.com/ibrahimpg" target="_blank">on Github.</a>
       </p>
 
