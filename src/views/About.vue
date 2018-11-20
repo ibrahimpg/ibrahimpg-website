@@ -15,7 +15,7 @@
         I want to work with others on projects that will transform the way people communicate and disrupt the way
         companies do business.<br><br>Check out <router-link to="/portfolio">my portfolio</router-link>
         to get a better idea of what I can do and
-        <a href="#" target="_blank">click here</a>
+        <a href="https://www.linkedin.com/in/ibrahimpg/" target="_blank">click here</a>
         to view my LinkedIn profile.
       </p>
 

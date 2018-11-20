@@ -10,7 +10,7 @@
         if you prefer, or contact me on
         <a href="https://github.com/ibrahimpg" target="_blank">Github</a>
         or
-        <a href="#">LinkedIn.</a>
+        <a href="https://www.linkedin.com/in/ibrahimpg/">LinkedIn.</a>
       </p>
 
       <br>
