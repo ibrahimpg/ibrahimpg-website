@@ -79,6 +79,7 @@ hr {
   overflow: hidden;
   background: url("./assets/sq.jpg") no-repeat center;
   background-size: cover;
+  -webkit-overflow-scrolling: touch;
 }
 
 #nav {
