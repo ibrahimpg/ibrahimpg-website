@@ -30,6 +30,11 @@
           <p><a href="https://github.com/ibrahimpg/REST-EZ" target="_blank">View Code</a></p>
         </div>
         <div>
+          <p><b>Node Mail List Manager</b></p>
+          <p>A Node.js API for building, managing, and interacting with a mailing list.</p><br>
+          <p><a href="https://github.com/ibrahimpg/node-mail-list-manager" target="_blank">View Code</a></p>
+        </div>
+        <div>
           <p><b>Name the 50 states</b></p>
           <p>A fun little quiz built with Vue.</p><br>
           <p><a href="https://ibrahimpg.github.io/50states/" target="_blank">Visit Web App</a></p>
