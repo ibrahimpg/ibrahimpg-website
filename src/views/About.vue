@@ -11,8 +11,9 @@
       <br>
 
       <p>
-        Hey! I am a fullstack JavaScript developer and I am excited to be a part of the web app revolution!
-        I want to work with others on projects that will transform the way people communicate and disrupt the way
+        Hey! I am a fullstack JavaScript hobbyist and I am excited to be a part of the web app revolution!
+        I am interested in working with others on projects that will transform the way people communicate 
+        and disrupt the way
         companies do business.<br><br>Check out <router-link to="/portfolio">my portfolio</router-link>
         to get a better idea of what I can do and
         <a href="https://www.linkedin.com/in/ibrahimpg/" target="_blank">click here</a>
