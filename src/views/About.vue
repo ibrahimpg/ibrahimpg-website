@@ -11,13 +11,10 @@
       <br>
 
       <p>
-        Hey! I am a fullstack JavaScript hobbyist and I am excited to be a part of the web app revolution!
-        I am interested in working with others on projects that will transform the way people communicate 
-        and disrupt the way
-        companies do business.<br><br>Check out <router-link to="/portfolio">my portfolio</router-link>
-        to get a better idea of what I can do and
-        <a href="https://www.linkedin.com/in/ibrahimpg/" target="_blank">click here</a>
-        to view my LinkedIn profile.
+        Hey! I am a fullstack JavaScript developer and I am excited to be a part of the web app revolution!
+        I love building PWA's and SPA's with Vue as well as lightweight Node/Express servers.
+        I am interested in working with others on projects related to tech, gaming,
+        social media, and anything else interesting really.
       </p>
 
       <br><br>
@@ -31,16 +28,20 @@
           <div style="margin: 25px;"><img src="../assets/Express.png" alt="Express Icon" style="width: 50px; height: 50px;"><p>Express</p></div>
         </div>
         <div style="display: flex; justify-content: center;">
-          <div style="margin: 25px;"><img src="../assets/MongoDB.png" alt="MongoDB Icon" style="width: 50px; height: 50px;"><p>MongoDB</p></div>
           <div style="margin: 25px;"><img src="../assets/Heroku.png" alt="Heroku Icon" style="width: 50px; height: 50px;"><p>Heroku</p></div>
+          <div style="margin: 25px;"><img src="../assets/MongoDB.png" alt="MongoDB Icon" style="width: 50px; height: 50px;"><p>MongoDB</p></div>
+          <div style="margin: 25px;"><img src="../assets/Netlify.png" alt="Netlify Icon" style="width: 50px; height: 50px;"><p>Netlify</p></div>
         </div>
       </div><hr>
       <br><br>
 
       <p>
         This is my preferred stack but by no means is it the only one I am willing to learn and use. I love trying
-        out new tech and expanding my knowledge on all things JavaScript and WebDev related. <router-link to="/contact">
-        Get in touch with me</router-link> if you have any questions, business related or otherwise.
+        out new tech and expanding my knowledge on all things JavaScript and WebDev related. 
+        Check out <router-link to="/portfolio">my portfolio</router-link>
+        to see some of the stuff I have built and
+        <router-link to="/contact">
+        get in touch with me</router-link> if you would like to collaborate on anything.
       </p>
 
     <br><br></div>

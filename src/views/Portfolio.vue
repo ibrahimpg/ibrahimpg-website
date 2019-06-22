@@ -13,6 +13,11 @@
 
       <div id="portfolio">
         <div>
+          <p><b>Felstriker</b></p>
+          <p>Comprehensive rogue class guide for WoW Classic.</p><br>
+          <p><a href="https://felstriker.com" target="_blank">Visit Web App</a></p>
+        </div>
+        <div>
           <p><b>Venomgram</b></p>
           <p>Instagram clone built with fullstack JavaScript (SPA/PWA).</p><br>
           <p><a href="https://venomgram.netlify.com" target="_blank">Visit Web App</a></p>

@@ -6,12 +6,9 @@
 
       <p>
         Submit a form if you would like to get in touch with me or
-        <a href="mailto:ibrahimpg@outlook.com">email me directly.</a>
+        <a href="mailto:ibrahimpg@outlook.com">email me directly.</a><br>
         You can also contact me on
-        <a href="https://github.com/ibrahimpg" target="_blank">Github</a>
-        or
-        <a href="https://www.linkedin.com/in/ibrahimpg/" target="_blank">LinkedIn</a>
-        if you prefer.
+        <a href="https://github.com/ibrahimpg" target="_blank">Github</a>.
       </p>
 
       <br>
